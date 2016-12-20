@@ -1,0 +1,2 @@
+#!/bin/bash -ex
+python3 twitter_benchmark.py
