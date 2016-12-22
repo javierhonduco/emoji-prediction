@@ -23,7 +23,7 @@ $ bin/benchmark # just to download tweets and see how many per second can you fe
 $ cd classify
 $ bin/bootstrap # to install everything
 $ # once the training file is in the folder
-$ python3 sk_learn_experiments.py 10000
+$ python3 sk_learn_experiments.py 10000 # use 10.000 tweets. The percentage used for training is defined in the `TRAINING` variable
 $ # generate statistics
 $ python3 emoji_stats.py
 ```
