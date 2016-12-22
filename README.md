@@ -2,7 +2,7 @@
 emoji prediction given a text using machine learning techniques
 
 #### Usage
-You'll need python3
+You'll need python3 (everything's been developed under Python 3.5.2)
 
 ```bash
 $ git clone git@github.com:javierhonduco/emoji-prediction.git
