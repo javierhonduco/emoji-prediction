@@ -1,5 +1,6 @@
 classify/emoji_twitter_data.txt
-code/config.py
+classify/trained_models/*
+fetch/config.py
 
 # Created by https://www.gitignore.io/api/python,sublimetext,osx,linux,vim,windows
 ### Python ###
